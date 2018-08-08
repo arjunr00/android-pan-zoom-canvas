@@ -1,4 +1,4 @@
-# PannableZoomableCanvas
+# A Pannable and Zoomable Canvas for Android
 A custom android view which can be panned across and zoomed in and out of.
 ___________
 
